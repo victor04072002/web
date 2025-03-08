@@ -1,0 +1,47 @@
+.encabezado {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+}
+#nombre{
+    text-align: center;
+    font-size: 18pt;
+    font-weight: bold;
+}
+
+.parrafos { 
+    text-align: left;
+    font-size: 16pt;
+    color: black;
+}
+#parrafo { 
+    text-align: center;
+    font-size: 18pt;
+    color: black;
+}
+th,td {
+    text-align: center;
+    border: 2px solid black;
+    border-collapse: collapse;
+
+}
+ul {
+    text-align: left;
+}
+.listaExperiencia {
+    font-size: 16pt;
+    font-weight: bold;
+}
+.habilidadesLista {
+    font-size: 16pt;
+    text-align: left;
+    
+
+
+}
+.titulosLista{
+    font-weight: bold;
+
+}
+
