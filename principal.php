@@ -11,6 +11,11 @@
 <body>
     <header>
         <h1>CANDYLANDIA</h1>
+        <nav>
+            <form method="POST" action="php/logout.php">
+                <button type="submit">Cerrar Sesión</button>
+            </form>
+        </nav>
         <div class="container-icon">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                 stroke="currentColor" class="icon-cart">
